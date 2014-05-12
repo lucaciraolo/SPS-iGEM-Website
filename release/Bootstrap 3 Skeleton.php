@@ -10,14 +10,15 @@
         <!--Start Navigation Bar-->
         <?php require_once 'php/navigation_bar.php'; ?>
         <!--End Navigation Bar-->
-        
+
         <!--Start Main Content-->
-        
+        <div class='container'>
+          
+        </div>
         <!--End Main Content-->
-        
+
         <!--Start Scripts-->
         <?php require_once 'php/script_includes.php'; ?>
         <!--End Scripts-->
-        
     </body>
 </html>
