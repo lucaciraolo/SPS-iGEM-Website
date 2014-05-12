@@ -2,8 +2,8 @@ live:
     scheme: ftp
     host: ftp.lucaciraolo.com
     port: 21
-    user: igem
-    pass: NKy8Gb3JTf9oya>r,E;ieMCsR$ui9d
+    user: igem@lucaciraolo.com
+    pass: igem123
     path:
         local: release/
-        remote: public_html/igem/
+        remote: 
