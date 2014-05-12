@@ -6,7 +6,8 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.php">SPS iGEM Page</a>
+
+            <a class="navbar-brand" href="http://2014hs.igem.org/Main_Page">SPS <img src="images/iGEM-Logo.png" style="margin-top: -12px;height:40px;"/> Page</a>
         </div>
         <div class="navbar-collapse collapse navbar-responsive-collapse">
             <ul class="nav navbar-nav navbar-left">
@@ -28,7 +29,7 @@
                         <li><a href="the_team_supervisors.php">Supervisors</a></li>
                     </ul>
                 </li>
-                
+
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Other <b class="caret"></b></a>
                     <ul class="dropdown-menu">
